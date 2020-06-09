@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\bin\Debug\netcoreapp3.1\Aula12ProjetoUber.exe
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\bin\Debug\netcoreapp3.1\Aula12ProjetoUber.deps.json
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\bin\Debug\netcoreapp3.1\Aula12ProjetoUber.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\bin\Debug\netcoreapp3.1\Aula12ProjetoUber.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\bin\Debug\netcoreapp3.1\Aula12ProjetoUber.dll
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\bin\Debug\netcoreapp3.1\Aula12ProjetoUber.pdb
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\obj\Debug\netcoreapp3.1\Aula12ProjetoUber.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\obj\Debug\netcoreapp3.1\Aula12ProjetoUber.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\obj\Debug\netcoreapp3.1\Aula12ProjetoUber.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\obj\Debug\netcoreapp3.1\Aula12ProjetoUber.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\obj\Debug\netcoreapp3.1\Aula12ProjetoUber.dll
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\obj\Debug\netcoreapp3.1\Aula12ProjetoUber.pdb
+C:\Users\saman\OneDrive\Documentos\Aula12ProjetoUber\obj\Debug\netcoreapp3.1\Aula12ProjetoUber.genruntimeconfig.cache
