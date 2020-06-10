@@ -11,8 +11,8 @@ namespace Aula12ProjetoUber
 
         public string Cadastrar { get; set; }
 
-        public void Excluir(){
-            
+        public void Excluir(string ExcluirConta){
+             Console.WriteLine("Excluir conta");
         }
     }
 }

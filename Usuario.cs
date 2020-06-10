@@ -49,5 +49,8 @@ namespace Aula12ProjetoUber
         }
         
         
+        public virtual void Excluir(){
+           Console.WriteLine("Excluindo dados");
+        }
     }
 }

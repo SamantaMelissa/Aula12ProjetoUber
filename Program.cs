@@ -25,10 +25,36 @@ namespace Aula12ProjetoUber
 
 
 
-             Motorista motorista = new Motorista();
-             motorista.Nome = "Carla";
-             motorista.Carro = "Volkswagen";
-             motorista.Placa = "AHIF9844";
+            Cartao visa = new Cartao();
+            
+               
+             
+            Console.WriteLine("Insira o núemro do cartão:");
+            Console.ReadLine();
+            
+            
+            Console.WriteLine("Insira o titular do cartão:");
+            Console.ReadLine();
+
+            Console.WriteLine("Insira a bandeira do cartão:");
+            Console.ReadLine();
+
+            Console.WriteLine("Insira o cvv do cartão:");
+            Console.ReadLine();
+
+
+
+            Samanta.LocalizacaoAtual = "Osasco, SP";
+            Console.WriteLine("Insira o seu destino:");
+            Console.ReadLine();
+
+
+
+
+            Motorista motorista = new Motorista();
+            motorista.Nome = "Carla";
+            motorista.Carro = "Volkswagen";
+            motorista.Placa = "AHIF9844";
 
             Console.WriteLine("Sua Motorista: "+motorista.Nome);
             
@@ -36,6 +62,14 @@ namespace Aula12ProjetoUber
            
             Console.WriteLine("A placa do carro: "+motorista.Placa);
             
+
+            Corrida corrida = new Corrida();
+            System.Console.WriteLine("Em aproximadamente 5 minutos o carro chegará ao destino"); 
+
+            
+
+           
+
 
             
 
