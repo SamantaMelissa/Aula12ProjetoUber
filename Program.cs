@@ -66,9 +66,7 @@ namespace Aula12ProjetoUber
             Corrida corrida = new Corrida();
             System.Console.WriteLine("Em aproximadamente 5 minutos o carro chegará ao destino"); 
 
-            
-
-           
+                       
 
 
             

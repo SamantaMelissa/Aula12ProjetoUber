@@ -4,9 +4,9 @@ namespace Aula12ProjetoUber
 {
     public class Conta
     {
-        private string agencia;
+        private string agencia  { get; set; }
 
-        private string conta;
+        private string conta  { get; set; }
 
 
         public string Cadastrar { get; set; }

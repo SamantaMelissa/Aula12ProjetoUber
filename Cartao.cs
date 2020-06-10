@@ -4,10 +4,10 @@ namespace Aula12ProjetoUber
 {
     public class Cartao 
     {
-        private string numero;
-        private string titular;
-        private string bandeira;
-        private string cvv;
+        private string numero  { get; set; }
+        private string titular  { get; set; }
+        private string bandeira  { get; set; }
+        private string cvv  { get; set; }
 
         
 
